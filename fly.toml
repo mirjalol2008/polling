@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for polling-gz3-ra on 2025-06-14T20:25:48Z
+# fly.toml app configuration file generated for polling-w7psig on 2025-06-14T20:41:27Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'polling-gz3-ra'
+app = 'polling-w7psig'
 primary_region = 'hkg'
 
 [build]
