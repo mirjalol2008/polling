@@ -11,7 +11,7 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 from aiogram.fsm.storage.memory import MemoryStorage
 
-API_TOKEN = "7863211646:AAEZsu6domxM1yHxzDpvnis8a9RKGmBSw9Y"
+API_TOKEN = "YOUR_BOT_TOKEN"
 ADMIN_ID = 8107595317
 FILES_DIR = "uploaded_bots"
 
